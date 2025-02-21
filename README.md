@@ -18,6 +18,11 @@ This project implements a game of Tic-Tac-Toe using the Arduino Uno microcontrol
 - **LED Display**: LEDs light up to show the current state of the Tic-Tac-Toe board.
 - **Game Logic**: Complete game logic for Tic-Tac-Toe, including win/draw detection and player/computer turns.
 
+## Explanation of files
+- The ```tictactoe.ino``` file contains the basic logic to run the game
+- The ```t_ard_1``` file contains the game logic to run multiple computer algorithms (Please see my AI vs BF repo)
+- The ```twoxtwo``` file contains the logic for a two by two grid
+
 ## Circuit Diagram
 A circuit diagram will be added here to illustrate the connections between the Arduino Uno, LEDs, and buttons.
 
