@@ -21,7 +21,7 @@ This project implements a game of Tic-Tac-Toe using the Arduino Uno microcontrol
 ## Explanation of files
 - The ```tictactoeGame.ino``` file contains the basic logic to run the game
 - The ```ttt_ard_1``` file contains the game logic to run multiple computer algorithms (Please see my AI vs BF repo)
-- The ```twoxtwo``` file contains the logic for a two by two grid
+- The ```twoXtwoGrid``` file contains the logic for a two by two grid
 
 ## Circuit Diagram
 A circuit diagram will be added here to illustrate the connections between the Arduino Uno, LEDs, and buttons.
